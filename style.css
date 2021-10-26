@@ -1,0 +1,120 @@
+body{
+    background: black;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.btn{
+    background:black;
+    color:orange;
+    
+    border: none;
+    font-size: xx-large;
+    padding: 10px 20px;
+    margin-top: 20px; 
+    border-radius: 5px;
+    cursor: pointer;
+    line-height: 2.4em;
+    border-bottom: dotted 1px solid ;
+
+}
+.btn:hover{
+    
+    color:rgb(27, 24, 17);
+    background: crimson;
+    text-decoration: underline;
+   
+}
+    
+
+.google {
+    color: orange;
+    font-size: 10px;
+    border: 1px  #ddd solid;
+    width: 350px;
+    height: 350px;
+    padding: 10px;
+    border: solid;
+    overflow: auto;
+    float: 33.3%;
+}
+
+h2{
+
+    color: orangered;
+}
+
+h2:hover{
+    color: peru;
+}
+
+
+
+img{
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+}
+
+/* vls style */
+
+.vls {
+    color: orange;
+    font-size: 10px;
+    border: 1px papayawhip  solid ;
+    width: 350px;
+    height: 350px;
+    padding: 10px;
+    overflow: auto;
+    border: solid;
+}
+.vls h2 {
+    color: orangered;
+}
+
+
+.vls h2:hover{
+   color: orange;
+}
+
+.vls img {
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+}
+
+
+
+
+.photoshop {
+    color: orange;
+    font-size: 10px;
+    border: 1px papayawhip  solid ;
+    width: 350px;
+    height: 350px;
+    padding: 10px;
+    overflow: auto;
+ 
+    border: solid;
+}
+
+
+footer {
+    font-size: 25px;
+    color: crimson;
+   height: 40px;
+   width: 200px;
+   padding: 10px;
+   border:1px sienna solid ;
+    overflow: auto;
+}
+
+
+footer:hover {
+    color: orange;
+}
+
+
